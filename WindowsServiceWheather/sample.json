@@ -1,0 +1,41 @@
+{
+  "location": {
+    "name": "Dallas",
+    "region": "Texas",
+    "country": "United States of America",
+    "lat": 32.78,
+    "lon": -96.8,
+    "tz_id": "America/Chicago",
+    "localtime_epoch": 1587049733,
+    "localtime": "2020-04-16 10:08"
+  },
+  "current": {
+    "last_updated_epoch": 1587049247,
+    "last_updated": "2020-04-16 10:00",
+    "temp_c": 12.8,
+    "temp_f": 55.0,
+    "is_day": 1,
+    "condition": {
+      "text": "Sunny",
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+      "code": 1000
+    },
+    "wind_mph": 9.4,
+    "wind_kph": 15.1,
+    "wind_degree": 140,
+    "wind_dir": "SE",
+    "pressure_mb": 1022.0,
+    "pressure_in": 30.7,
+    "precip_mm": 0.0,
+    "precip_in": 0.0,
+    "humidity": 62,
+    "cloud": 0,
+    "feelslike_c": 11.4,
+    "feelslike_f": 52.4,
+    "vis_km": 16.0,
+    "vis_miles": 9.0,
+    "uv": 9.0,
+    "gust_mph": 16.6,
+    "gust_kph": 26.6
+  }
+}
